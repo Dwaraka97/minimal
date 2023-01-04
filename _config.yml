@@ -1,6 +1,10 @@
-title: Minimal theme
+title: trilochan parvathaneni
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="center">
+  Currently I am working as Senior Analyst Data Operations. Good at SQL, Big Query. Team Management. 
+  Had experience in HR, Finance, Recruitment, Resource Management. 
+  Had experience in Zoho tools.
+  </p>
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
